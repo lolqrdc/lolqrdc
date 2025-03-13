@@ -7,7 +7,7 @@ Former sociology student with a Bachelor's degree in cultural studies who decide
 - **Current Path**: Studying software engineering at 42 Le Havre 💻
 
 
-# 🛠️ Tech stack 
+# ⚙️ Tech stack 
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
