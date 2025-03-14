@@ -21,7 +21,7 @@ Former sociology student with a Bachelor's degree in cultural studies who decide
 
 
 # ⚡️ Projects 
-|       **Projects**            | **Description**                                                 |
+|       **Project**            | **Description**                                                  |
 |-------------------------------|-----------------------------------------------------------------|
 | **[DRAKKAR Plus](https://github.com/lolqrdc/DrakkarPlus)** | collaborative project Browser extension specially designed for 42 Le Havre students to easily access Drakkar student association services.
 | **[Fil de Fer](https://github.com/lolqrdc/42FdF)** | represent “iron wire” meshing in 3D.
