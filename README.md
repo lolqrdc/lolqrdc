@@ -1,6 +1,5 @@
 # Hello! I'm Lola 
-Former sociology student with a Bachelor's degree in cultural studies who decided to embark on an exciting journey to become a **software engineer** 🚀. Anyone can learn to code, regardless of their background!
-
+From sociology to software engineering: I'm a cultural studies graduate now exploring the world of coding with 42school 🚀!
 
 # About me 👋
 - **Background**: Bachelor's degree in Sociology with a focus on cultural studies 🎭
